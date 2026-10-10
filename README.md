@@ -19,7 +19,7 @@
 
 ---
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
       <strong>Learning</strong>
@@ -36,7 +36,7 @@
       Better pages, one step at a time
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="center">
   <sub>Email is the best place to reach me.</sub>
